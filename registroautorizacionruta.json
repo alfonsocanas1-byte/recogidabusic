@@ -1,0 +1,15 @@
+{
+  "organizacion": "ic2026",
+  "solicitudes_autorizacion": [
+    {
+      "id_personal": "1053",
+      "nombre_apellido": "Alfonso Cañas",
+      "jefe_lider_inmediato": "otro",
+      "razon_solicitud": "Necesito ver. Uso una Dodge RAM de dotación y están cambiando la batería por una más potente",
+      "tiene_vehiculo_empresa": "Sí",
+      "es_contratista": "Sí",
+      "fecha_solicitud": "2026-03-17T19:53:00",
+      "estado": "Pendiente"
+    }
+  ]
+}
